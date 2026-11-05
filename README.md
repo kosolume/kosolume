@@ -59,7 +59,7 @@ My background in **accounting, internal audit, SOX compliance, and risk** shapes
 
 ## 🔐 On My Workbench
 
-### [SafeBite](https://github.com/saniaanwar/safebite)
+### SafeBite
 
 A collaborative food-safety app being built around food recalls, grocery lists, restaurant inspections, and community reports. My focus is restaurant inspections and reporting, with 1,000 synthetic inspection records seeded for 200 fictional restaurants.
 
