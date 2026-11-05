@@ -1,5 +1,5 @@
 <h1 align="center">Kosolume</h1><p align="center">
-  <img src="./assets/kosolume-banner.gif" alt="Kosolume in cyan on a red and maroon background, with subtle animated geometric accents." width="1000">
+  <img src="./assets/toolkit/kosolume-banner.gif" alt="Kosolume in cyan on a red and maroon background, with subtle animated geometric accents." width="1000">
 </p>
 
 I build **web applications** and explore **cybersecurity and automation** through practical projects.
