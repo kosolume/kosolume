@@ -12,13 +12,17 @@ My background in **accounting, internal audit, SOX compliance, and risk** shapes
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Airbnb Listings</h3>
       <p>A searchable interface that loads 50 listings from JSON, creates cards dynamically, and handles unavailable images.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="34%" valign="top">
       <h3>VulnScope</h3>
       <p>A full-stack app for exploring NIST vulnerability and product data, with search, filters, and guest workspaces for managing security reviews.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Web Dev Lessons Learned</h3>
+      <p>An interactive RequestScope demo that follows a browser search through an Express API and back, covering validation, JSON responses, and dynamic results.</p>
     </td>
   </tr>
   <tr>
@@ -33,6 +37,12 @@ My background in **accounting, internal audit, SOX compliance, and risk** shapes
       <code>JavaScript ES6</code>
       <code>MongoDB</code>
     </td>
+    <td valign="top">
+      <code>JavaScript</code>
+      <code>Node.js</code>
+      <code>Express</code>
+      <code>Fetch API</code>
+    </td>
   </tr>
   <tr>
     <td valign="top">
@@ -42,6 +52,9 @@ My background in **accounting, internal audit, SOX compliance, and risk** shapes
     <td valign="top">
       <a href="https://github.com/kosolume/vulnscope">Source code</a> ·
       <a href="https://vulnscope-d4xk.onrender.com/">Live site ↗</a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/kosolume/web-dev-lessons-learned">Source code</a>
     </td>
   </tr>
 </table>
